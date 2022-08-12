@@ -200,7 +200,7 @@ body {
 }
 
 section {
-  margin-top: 140px;
+  margin-top: 100px;
 }
 
 #contact-section {
@@ -1728,8 +1728,8 @@ contact us page
 */
 
 section.more-info .section-heading {
-  margin-bottom: 40px;
-  text-align: left;
+  margin-bottom: 10px;
+  text-align: center;
 }
 
 section.more-info p {
@@ -1781,9 +1781,15 @@ section.more-info .count-area-content .count-title {
   font-size: 20px;
   font-weight: 900;
   color: #111;
-  padding: 50px 30px 30px 30px;
+  padding: 20px 20px 20px 20px;
   position: relative;
   z-index: 1;
+}
+
+.custom-color {
+  background-color: rgba(104, 64, 98, 0.486);
+  border-radius: 15px;
+
 }
 
 
